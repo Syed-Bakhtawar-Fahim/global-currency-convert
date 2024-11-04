@@ -1,6 +1,6 @@
 {
   "name": "global-currency-convert",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A free and easy-to-use npm package for real-time currency conversion. free-global-currency-converter provides accurate exchange rates for multiple currencies worldwide, making it ideal for applications needing quick and reliable currency conversion",
   "main": "server.js",
   "type": "module",
