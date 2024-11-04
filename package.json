@@ -1,0 +1,30 @@
+{
+  "name": "global-currency-convert",
+  "version": "1.0.0",
+  "description": "A free and easy-to-use npm package for real-time currency conversion. free-global-currency-converter provides accurate exchange rates for multiple currencies worldwide, making it ideal for applications needing quick and reliable currency conversion",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Bakhtawar-Fahim/global-currency-convert.git"
+  },
+  "keywords": [
+    "currency",
+    "currency-converter",
+    "finance",
+    "global-currency-convert"
+  ],
+  "author": "Syed Bakhtawar Fahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed-Bakhtawar-Fahim/global-currency-convert/issues"
+  },
+  "homepage": "https://github.com/Syed-Bakhtawar-Fahim/global-currency-convert#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
